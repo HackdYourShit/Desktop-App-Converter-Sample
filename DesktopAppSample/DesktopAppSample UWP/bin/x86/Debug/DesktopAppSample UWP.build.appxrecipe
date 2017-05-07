@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DAVE-AURORAW10</Machine>
+    <WindowsUser>info</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>7be9437f-7196-4251-b52b-3d698a993a23</PackageIdentityName>
+    <PackageIdentityPublisher>CN=info</PackageIdentityPublisher>
+    <IntermediateOutputPath>E:\Source\Samples\DesktopAppSample\DesktopAppSample UWP\bld\x86\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath></WindowsSdkPath>
+    <LayoutDir>E:\Source\Samples\DesktopAppSample\DesktopAppSample UWP\bin\x86\Debug\AppX</LayoutDir>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\Source\Samples\DesktopAppSample\DesktopAppSample UWP\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\Source\Samples\DesktopAppSample\DesktopAppSample UWP\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Source\Samples\DesktopAppSample\DesktopAppSample UWP\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Source\Samples\DesktopAppSample\DesktopAppSample UWP\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Source\Samples\DesktopAppSample\DesktopAppSample UWP\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Source\Samples\DesktopAppSample\DesktopAppSample UWP\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Source\Samples\DesktopAppSample\DesktopAppSample UWP\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Source\Samples\DesktopAppSample\DesktopAppSample UWP\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Source\Samples\DesktopAppSample\DesktopAppSample UWP\win32\DesktopAppSample.exe">
+      <PackagePath>win32\DesktopAppSample.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Source\Samples\DesktopAppSample\DesktopAppSample UWP\win32\DesktopAppSample.exe.config">
+      <PackagePath>win32\DesktopAppSample.exe.config</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Source\Samples\DesktopAppSample\DesktopAppSample UWP\win32\MahApps.Metro.dll">
+      <PackagePath>win32\MahApps.Metro.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Source\Samples\DesktopAppSample\DesktopAppSample UWP\win32\System.Windows.Interactivity.dll">
+      <PackagePath>win32\System.Windows.Interactivity.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Source\Samples\DesktopAppSample\DesktopAppSample UWP\win32\MahApps.Metro.xml">
+      <PackagePath>win32\MahApps.Metro.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Source\Samples\DesktopAppSample\DesktopAppSample UWP\bin\x86\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

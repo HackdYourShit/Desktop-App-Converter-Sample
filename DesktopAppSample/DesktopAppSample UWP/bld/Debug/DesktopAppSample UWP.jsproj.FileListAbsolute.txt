@@ -1,0 +1,26 @@
+E:\Source\Samples\DesktopAppSample\DesktopAppSample UWP\bin\Debug\ReverseMap\resources.pri
+E:\Source\Samples\DesktopAppSample\DesktopAppSample UWP\bin\Debug\AppxManifest.xml
+E:\Source\Samples\DesktopAppSample\DesktopAppSample UWP\bin\Debug\DesktopAppSample UWP.build.appxrecipe
+E:\Source\Samples\DesktopAppSample\DesktopAppSample UWP\bld\Debug\ResourceHandlingTask.state
+E:\Source\Samples\DesktopAppSample\DesktopAppSample UWP\bld\Debug\priconfig.xml
+E:\Source\Samples\DesktopAppSample\DesktopAppSample UWP\bld\Debug\priconfig.xml.intermediate
+E:\Source\Samples\DesktopAppSample\DesktopAppSample UWP\bld\Debug\layout.resfiles
+E:\Source\Samples\DesktopAppSample\DesktopAppSample UWP\bld\Debug\layout.resfiles.intermediate
+E:\Source\Samples\DesktopAppSample\DesktopAppSample UWP\bld\Debug\resources.resfiles
+E:\Source\Samples\DesktopAppSample\DesktopAppSample UWP\bld\Debug\resources.resfiles.intermediate
+E:\Source\Samples\DesktopAppSample\DesktopAppSample UWP\bld\Debug\pri.resfiles
+E:\Source\Samples\DesktopAppSample\DesktopAppSample UWP\bld\Debug\pri.resfiles.intermediate
+E:\Source\Samples\DesktopAppSample\DesktopAppSample UWP\bld\Debug\qualifiers.txt
+E:\Source\Samples\DesktopAppSample\DesktopAppSample UWP\bld\Debug\qualifiers.txt.intermediate
+E:\Source\Samples\DesktopAppSample\DesktopAppSample UWP\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\Source\Samples\DesktopAppSample\DesktopAppSample UWP\bld\Debug\ProjectArchitectures.txt
+E:\Source\Samples\DesktopAppSample\DesktopAppSample UWP\bin\Debug\win32\DesktopAppSample.exe
+E:\Source\Samples\DesktopAppSample\DesktopAppSample UWP\bin\Debug\win32\DesktopAppSample.exe.config
+E:\Source\Samples\DesktopAppSample\DesktopAppSample UWP\bin\Debug\win32\DesktopAppSample.pdb
+E:\Source\Samples\DesktopAppSample\DesktopAppSample UWP\bin\Debug\win32\MahApps.Metro.dll
+E:\Source\Samples\DesktopAppSample\DesktopAppSample UWP\bin\Debug\win32\MahApps.Metro.xml
+E:\Source\Samples\DesktopAppSample\DesktopAppSample UWP\bin\Debug\win32\System.Windows.Interactivity.dll
+E:\Source\Samples\DesktopAppSample\DesktopAppSample UWP\bld\Debug\System.Windows.Interactivity\en\ExceptionStringTable.resw
+E:\Source\Samples\DesktopAppSample\DesktopAppSample UWP\bld\Debug\DesktopAppSample UWP.jsproj.GenerateResource.Cache
+E:\Source\Samples\DesktopAppSample\DesktopAppSample UWP\bld\Debug\resources.en.resfiles
+E:\Source\Samples\DesktopAppSample\DesktopAppSample UWP\bld\Debug\resources.en.resfiles.intermediate

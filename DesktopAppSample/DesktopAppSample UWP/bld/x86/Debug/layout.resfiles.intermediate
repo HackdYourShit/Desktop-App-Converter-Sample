@@ -1,0 +1,13 @@
+images\LockScreenLogo.scale-200.png
+images\SplashScreen.scale-200.png
+images\Square150x150Logo.scale-200.png
+images\Square44x44Logo.scale-200.png
+images\Square44x44Logo.targetsize-24_altform-unplated.png
+images\StoreLogo.png
+images\Wide310x150Logo.scale-200.png
+win32\DesktopAppSample.exe
+win32\DesktopAppSample.exe.config
+win32\DesktopAppSample.pdb
+win32\MahApps.Metro.dll
+win32\MahApps.Metro.xml
+win32\System.Windows.Interactivity.dll
