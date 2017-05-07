@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>7be9437f-7196-4251-b52b-3d698a993a23</PackageIdentityName>
     <PackageIdentityPublisher>CN=info</PackageIdentityPublisher>
-    <IntermediateOutputPath>E:\Source\Samples\DesktopAppSample\DesktopAppSample UWP\bld\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>E:\Source\Desktop-App-Converter-Sample\DesktopAppSample\DesktopAppSample UWP\bld\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -19,7 +19,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>
     </WindowsSdkPath>
-    <LayoutDir>E:\Source\Samples\DesktopAppSample\DesktopAppSample UWP\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>E:\Source\Desktop-App-Converter-Sample\DesktopAppSample\DesktopAppSample UWP\bin\x86\Debug\AppX</LayoutDir>
     <RegisteredManifestChecksum>BE225D84B466359E975FDD0234FC0702F54A80F13A8EE39F940D17338FA51910</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>7be9437f-7196-4251-b52b-3d698a993a23_1.0.0.0_x86__524pdvx780mbg</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>7be9437f-7196-4251-b52b-3d698a993a23_524pdvx780mbg!App</RegisteredUserModeAppID>
@@ -29,71 +29,91 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="E:\Source\Samples\DesktopAppSample\DesktopAppSample UWP\bin\x86\Debug\AppxManifest.xml">
+    <AppXManifest Include="E:\Source\Desktop-App-Converter-Sample\DesktopAppSample\DesktopAppSample UWP\bin\x86\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-05-07T18:04:43.806</Modified>
+      <Modified>2017-05-07T18:33:49.274</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="E:\Source\Samples\DesktopAppSample\DesktopAppSample UWP\images\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="E:\Source\Desktop-App-Converter-Sample\DesktopAppSample\DesktopAppSample UWP\images\LockScreenLogo.scale-200.png">
       <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2017-05-05T12:00:03.962</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Source\Samples\DesktopAppSample\DesktopAppSample UWP\images\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="E:\Source\Desktop-App-Converter-Sample\DesktopAppSample\DesktopAppSample UWP\images\SplashScreen.scale-200.png">
       <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-05-05T12:00:03.962</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Source\Samples\DesktopAppSample\DesktopAppSample UWP\images\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="E:\Source\Desktop-App-Converter-Sample\DesktopAppSample\DesktopAppSample UWP\images\Square150x150Logo.scale-200.png">
       <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-05-05T12:00:03.962</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Source\Samples\DesktopAppSample\DesktopAppSample UWP\images\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="E:\Source\Desktop-App-Converter-Sample\DesktopAppSample\DesktopAppSample UWP\images\Square44x44Logo.scale-200.png">
       <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-05-05T12:00:03.962</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Source\Samples\DesktopAppSample\DesktopAppSample UWP\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="E:\Source\Desktop-App-Converter-Sample\DesktopAppSample\DesktopAppSample UWP\images\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-05-05T12:00:03.962</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Source\Samples\DesktopAppSample\DesktopAppSample UWP\images\StoreLogo.png">
+    <AppxPackagedFile Include="E:\Source\Desktop-App-Converter-Sample\DesktopAppSample\DesktopAppSample UWP\images\StoreLogo.png">
       <PackagePath>images\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-05-05T12:00:03.962</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Source\Samples\DesktopAppSample\DesktopAppSample UWP\images\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="E:\Source\Desktop-App-Converter-Sample\DesktopAppSample\DesktopAppSample UWP\images\Wide310x150Logo.scale-200.png">
       <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-05-05T12:00:03.962</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Source\Samples\DesktopAppSample\DesktopAppSample UWP\win32\DesktopAppSample.exe">
+    <AppxPackagedFile Include="E:\Source\Desktop-App-Converter-Sample\DesktopAppSample\DesktopAppSample UWP\win32\DesktopAppSample.exe">
       <PackagePath>win32\DesktopAppSample.exe</PackagePath>
-      <Modified>2017-05-07T18:04:44.485</Modified>
+      <Modified>2017-05-07T18:33:50.560</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Source\Samples\DesktopAppSample\DesktopAppSample UWP\win32\DesktopAppSample.exe.config">
+    <AppxPackagedFile Include="E:\Source\Desktop-App-Converter-Sample\DesktopAppSample\DesktopAppSample UWP\win32\DesktopAppSample.exe.config">
       <PackagePath>win32\DesktopAppSample.exe.config</PackagePath>
       <Modified>2017-05-07T17:29:23.812</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Source\Samples\DesktopAppSample\DesktopAppSample UWP\win32\MahApps.Metro.dll">
+    <AppxPackagedFile Include="E:\Source\Desktop-App-Converter-Sample\DesktopAppSample\DesktopAppSample UWP\win32\DesktopBridge.Helpers.dll">
+      <PackagePath>win32\DesktopBridge.Helpers.dll</PackagePath>
+      <Modified>2016-10-01T20:45:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Source\Desktop-App-Converter-Sample\DesktopAppSample\DesktopAppSample UWP\win32\MahApps.Metro.dll">
       <PackagePath>win32\MahApps.Metro.dll</PackagePath>
       <Modified>2017-04-13T20:21:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Source\Samples\DesktopAppSample\DesktopAppSample UWP\win32\System.Windows.Interactivity.dll">
+    <AppxPackagedFile Include="E:\Source\Desktop-App-Converter-Sample\DesktopAppSample\DesktopAppSample UWP\win32\System.Runtime.WindowsRuntime.dll">
+      <PackagePath>win32\System.Runtime.WindowsRuntime.dll</PackagePath>
+      <Modified>2012-09-26T02:16:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Source\Desktop-App-Converter-Sample\DesktopAppSample\DesktopAppSample UWP\win32\System.Runtime.WindowsRuntime.UI.Xaml.dll">
+      <PackagePath>win32\System.Runtime.WindowsRuntime.UI.Xaml.dll</PackagePath>
+      <Modified>2012-09-26T02:16:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Source\Desktop-App-Converter-Sample\DesktopAppSample\DesktopAppSample UWP\win32\System.Windows.Interactivity.dll">
       <PackagePath>win32\System.Windows.Interactivity.dll</PackagePath>
       <Modified>2017-04-13T20:21:14.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Source\Samples\DesktopAppSample\DesktopAppSample UWP\win32\MahApps.Metro.xml">
+    <AppxPackagedFile Include="E:\Source\Desktop-App-Converter-Sample\DesktopAppSample\DesktopAppSample UWP\win32\MahApps.Metro.xml">
       <PackagePath>win32\MahApps.Metro.xml</PackagePath>
       <Modified>2017-04-13T20:21:14.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Source\Samples\DesktopAppSample\DesktopAppSample UWP\bin\x86\Debug\ReverseMap\resources.pri">
+    <AppxPackagedFile Include="E:\Source\Desktop-App-Converter-Sample\DesktopAppSample\DesktopAppSample UWP\win32\System.Runtime.WindowsRuntime.UI.Xaml.xml">
+      <PackagePath>win32\System.Runtime.WindowsRuntime.UI.Xaml.xml</PackagePath>
+      <Modified>2015-03-19T14:03:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Source\Desktop-App-Converter-Sample\DesktopAppSample\DesktopAppSample UWP\win32\System.Runtime.WindowsRuntime.xml">
+      <PackagePath>win32\System.Runtime.WindowsRuntime.xml</PackagePath>
+      <Modified>2015-03-19T14:03:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Source\Desktop-App-Converter-Sample\DesktopAppSample\DesktopAppSample UWP\bin\x86\Debug\ReverseMap\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-05-07T18:04:43.707</Modified>
+      <Modified>2017-05-07T18:33:49.173</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

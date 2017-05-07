@@ -8,6 +8,12 @@ images\Wide310x150Logo.scale-200.png
 win32\DesktopAppSample.exe
 win32\DesktopAppSample.exe.config
 win32\DesktopAppSample.pdb
+win32\DesktopBridge.Helpers.dll
 win32\MahApps.Metro.dll
+win32\MahApps.Metro.pdb
 win32\MahApps.Metro.xml
+win32\System.Runtime.WindowsRuntime.dll
+win32\System.Runtime.WindowsRuntime.UI.Xaml.dll
+win32\System.Runtime.WindowsRuntime.UI.Xaml.xml
+win32\System.Runtime.WindowsRuntime.xml
 win32\System.Windows.Interactivity.dll

@@ -74,12 +74,18 @@
     <Content Include="win32\DesktopAppSample.pdb">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="win32\DesktopBridge.Helpers.dll" />
     <Content Include="win32\MahApps.Metro.dll">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="win32\MahApps.Metro.pdb" />
     <Content Include="win32\MahApps.Metro.xml">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="win32\System.Runtime.WindowsRuntime.dll" />
+    <Content Include="win32\System.Runtime.WindowsRuntime.UI.Xaml.dll" />
+    <Content Include="win32\System.Runtime.WindowsRuntime.UI.Xaml.xml" />
+    <Content Include="win32\System.Runtime.WindowsRuntime.xml" />
     <Content Include="win32\System.Windows.Interactivity.dll">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>

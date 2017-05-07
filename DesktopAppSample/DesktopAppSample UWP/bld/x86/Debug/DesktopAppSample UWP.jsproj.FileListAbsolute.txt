@@ -24,3 +24,29 @@ E:\Source\Samples\DesktopAppSample\DesktopAppSample UWP\bld\x86\Debug\MultipleQu
 E:\Source\Samples\DesktopAppSample\DesktopAppSample UWP\bld\x86\Debug\resources.en.resfiles
 E:\Source\Samples\DesktopAppSample\DesktopAppSample UWP\bld\x86\Debug\resources.en.resfiles.intermediate
 E:\Source\Samples\DesktopAppSample\DesktopAppSample UWP\bld\x86\Debug\ProjectArchitectures.txt
+E:\Source\Desktop-App-Converter-Sample\DesktopAppSample\DesktopAppSample UWP\bin\x86\Debug\win32\DesktopAppSample.exe
+E:\Source\Desktop-App-Converter-Sample\DesktopAppSample\DesktopAppSample UWP\bin\x86\Debug\win32\DesktopAppSample.exe.config
+E:\Source\Desktop-App-Converter-Sample\DesktopAppSample\DesktopAppSample UWP\bin\x86\Debug\win32\DesktopAppSample.pdb
+E:\Source\Desktop-App-Converter-Sample\DesktopAppSample\DesktopAppSample UWP\bin\x86\Debug\win32\MahApps.Metro.dll
+E:\Source\Desktop-App-Converter-Sample\DesktopAppSample\DesktopAppSample UWP\bin\x86\Debug\win32\MahApps.Metro.xml
+E:\Source\Desktop-App-Converter-Sample\DesktopAppSample\DesktopAppSample UWP\bin\x86\Debug\win32\System.Windows.Interactivity.dll
+E:\Source\Desktop-App-Converter-Sample\DesktopAppSample\DesktopAppSample UWP\bin\x86\Debug\ReverseMap\resources.pri
+E:\Source\Desktop-App-Converter-Sample\DesktopAppSample\DesktopAppSample UWP\bin\x86\Debug\AppxManifest.xml
+E:\Source\Desktop-App-Converter-Sample\DesktopAppSample\DesktopAppSample UWP\bin\x86\Debug\DesktopAppSample UWP.build.appxrecipe
+E:\Source\Desktop-App-Converter-Sample\DesktopAppSample\DesktopAppSample UWP\bld\x86\Debug\ResourceHandlingTask.state
+E:\Source\Desktop-App-Converter-Sample\DesktopAppSample\DesktopAppSample UWP\bld\x86\Debug\System.Windows.Interactivity\en\ExceptionStringTable.resw
+E:\Source\Desktop-App-Converter-Sample\DesktopAppSample\DesktopAppSample UWP\bld\x86\Debug\DesktopAppSample UWP.jsproj.GenerateResource.Cache
+E:\Source\Desktop-App-Converter-Sample\DesktopAppSample\DesktopAppSample UWP\bld\x86\Debug\priconfig.xml
+E:\Source\Desktop-App-Converter-Sample\DesktopAppSample\DesktopAppSample UWP\bld\x86\Debug\priconfig.xml.intermediate
+E:\Source\Desktop-App-Converter-Sample\DesktopAppSample\DesktopAppSample UWP\bld\x86\Debug\layout.resfiles
+E:\Source\Desktop-App-Converter-Sample\DesktopAppSample\DesktopAppSample UWP\bld\x86\Debug\layout.resfiles.intermediate
+E:\Source\Desktop-App-Converter-Sample\DesktopAppSample\DesktopAppSample UWP\bld\x86\Debug\resources.resfiles
+E:\Source\Desktop-App-Converter-Sample\DesktopAppSample\DesktopAppSample UWP\bld\x86\Debug\resources.resfiles.intermediate
+E:\Source\Desktop-App-Converter-Sample\DesktopAppSample\DesktopAppSample UWP\bld\x86\Debug\pri.resfiles
+E:\Source\Desktop-App-Converter-Sample\DesktopAppSample\DesktopAppSample UWP\bld\x86\Debug\pri.resfiles.intermediate
+E:\Source\Desktop-App-Converter-Sample\DesktopAppSample\DesktopAppSample UWP\bld\x86\Debug\qualifiers.txt
+E:\Source\Desktop-App-Converter-Sample\DesktopAppSample\DesktopAppSample UWP\bld\x86\Debug\qualifiers.txt.intermediate
+E:\Source\Desktop-App-Converter-Sample\DesktopAppSample\DesktopAppSample UWP\bld\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\Source\Desktop-App-Converter-Sample\DesktopAppSample\DesktopAppSample UWP\bld\x86\Debug\resources.en.resfiles
+E:\Source\Desktop-App-Converter-Sample\DesktopAppSample\DesktopAppSample UWP\bld\x86\Debug\resources.en.resfiles.intermediate
+E:\Source\Desktop-App-Converter-Sample\DesktopAppSample\DesktopAppSample UWP\bld\x86\Debug\ProjectArchitectures.txt
